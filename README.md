@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi,<br><br>I am a Data Science student from Pune, India.<br><br>B.Sc. Statistics from Fergusson College, Pune<br>Currently studying M.Sc. Data Science from Vellore Institute of Technology, Chennai<br>Email ID: romajoshi17@gmail.com<br>
+Hi,<br><br>I am an AI Consultant from Pune, India.<br><br>B.Sc. Statistics from Fergusson College, Pune<br>Currently studying M.Sc. Data Science from Vellore Institute of Technology, Chennai<br>Email ID: romajoshi17@gmail.com<br>
 
 
 ## 🌐 Socials:
